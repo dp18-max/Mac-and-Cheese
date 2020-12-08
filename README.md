@@ -1,13 +1,13 @@
 # Mac-and-Cheese
 *This dish yeilds 4 servings*
 **Ingredients**
-[] 1 (8 ounce) box elbow macaroni
-[] ¼ cup butter
-[] ¼ cup all-purpose flour
-[] ½ teaspoon salt
-[] ground black pepper to taste
-[] 2 cups milk
-[] 2 cups shredded Cheddar cheese
+1. 1 (8 ounce) box elbow macaroni
+2. ¼ cup butter
+3. ¼ cup all-purpose flour
+4. ½ teaspoon salt
+5. ground black pepper to taste
+6. 2 cups milk
+7. 2 cups shredded Cheddar cheese
 
 **Recipe**
 - *Step 1*
